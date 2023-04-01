@@ -1,4 +1,4 @@
-(This project was made in 2021) Fourth and last project in Rolling Code School, "O'Tech" is a watch's ECommerce
+(This project was made in 2021) Fourth and last project in Rolling Code School, "O'Tech" is a watch's ECommerce.
 
 Link:
 https://otech-smartwatches.vercel.app/
